@@ -2,6 +2,12 @@
 
 A production-ready Shopping Cart Engine built with Node.js, Express, and MongoDB.
 
+## Live API
+
+The application is deployed on Render and can be accessed at:
+
+**Base URL:** https://adaptive-ecommerce-cart-engine.onrender.com
+
 ## Setup Instructions
 
 1. Clone the repository.
